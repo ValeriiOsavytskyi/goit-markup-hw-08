@@ -1,0 +1,23 @@
+.subtittle {
+    font-size: 14px;
+    line-height: calc(16 / 14);
+
+    text-transform: uppercase;
+
+    &--features {
+          margin-bottom: 10px;
+        }
+
+    &--activities {
+        color: var(--btn-txt-cl);
+        }
+
+    &--social {
+        color: var(--btn-txt-cl);
+        }
+
+    &--form {
+        color: var(--btn-txt-cl);
+        }
+
+}
